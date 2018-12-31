@@ -1,0 +1,20 @@
+{
+  "name": "01-hello-world",
+  "version": "1.0.0",
+  "description": "In this lesson we will learn about react fundementals by trying to create an hello world application.",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "babel-standalone": "^6.26.0",
+    "http-server": "^0.11.1"
+  }
+}
