@@ -5,6 +5,8 @@ create-react-app is a cli used to bootstrap a new react application.
 ### Lesson Plan
 
 - start a new react project
+- going over the files
+- changing to scss
 - development server
 - file structure
 - webpack
