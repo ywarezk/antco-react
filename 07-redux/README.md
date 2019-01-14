@@ -2,6 +2,14 @@
 
 In this lesson we will talk about Redux
 
+### middlewares
+
+- redux-thunk
+- redux dev tools
+- redux saga
+- redux epics
+- redux router
+
 ### Lesson Plan
 
 * The problem with private component state
